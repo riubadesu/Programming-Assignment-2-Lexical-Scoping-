@@ -1,4 +1,3 @@
-# functions 
 
 makeCacheMatrix <- function(x = matrix()){
     inv <- NULL
